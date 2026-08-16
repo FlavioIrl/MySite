@@ -8,7 +8,7 @@ __pycache__/
 
 # Distribution / packaging
 .Python
-build/
+env/lib/python3.12/site-packages/pip/_internal/operations/build/
 develop-eggs/
 dist/
 downloads/
